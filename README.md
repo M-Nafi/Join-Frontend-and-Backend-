@@ -1,7 +1,7 @@
 <h1 align="center">Join Frontend & Backend</h1>
 
 <p align="center">
-<h2> Welcome to my full-stack project!</h2> <br>
+Welcome to my full-stack project!<br>
 It consists of two separate repositories—one for the <strong>Frontend</strong> and one for the <strong>Backend</strong>. <br>
 This central repository serves as an overview and entry point.
 </p>
