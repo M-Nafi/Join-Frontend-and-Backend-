@@ -7,8 +7,8 @@ This central repository serves as an overview and entry point.
 <p align="center">
 This project was developed collaboratively by three team members:  
 <p align="center">
-<a href="https://github.com/MarcoAngermann">**Marco Angermann**</a>, <a href="https://github.com/MaxLackmann">**Maximilian Lackmann**</a>, and myself
-<a href="https://github.com/M-Nafi">**Nafi**</a>.  
+<a href="https://github.com/MarcoAngermann">Marco Angermann</a>, <a href="https://github.com/MaxLackmann">Maximilian Lackmann</a>, and myself
+<a href="https://github.com/M-Nafi">Nafi</a>.  
 <p align="center">
 Although each of us maintained our own individual repositories, we worked closely together throughout the development process.  
 All three of us contributed to both the frontend and backend, using tools such as **Visual Studio Code Live Share** to enable real-time collaboration and pair programming.
