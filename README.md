@@ -19,8 +19,7 @@ This central repository serves as an overview and entry point.
 
 <h2 align="center">Repositories</h2>
 
-<p align="center">
-<table>
+<table align="center">
   <tr>
     <th>Section</th>
     <th>Technologies</th>
@@ -37,7 +36,6 @@ This central repository serves as an overview and entry point.
     <td><a href="https://github.com/M-Nafi/Join_Backend">Join_Backend</a></td>
   </tr>
 </table>
-</p>
 
 ---
 
