@@ -17,6 +17,6 @@ This central repository serves as an overview.
 | Teil       | Technologie                          | Link                                                            |
 |------------|--------------------------------------|-----------------------------------------------------------------|
 | Frontend   | HTML, CSS, JavaScript                | [Frontend Repository](https://github.com/M-Nafi/Join_Frontend)) |
-| Backend    | Python, Django DRF, Docker, Postgres | [Backend Repository]((https://github.com/M-Nafi/Join_Backend))  |
+| Backend    | Python, Django DRF, Docker, Postgres | [Backend Repository]((https://github.com/M-Nafi/Join_Backend))) |
 
 ---
