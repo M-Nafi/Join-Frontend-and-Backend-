@@ -8,6 +8,8 @@ Dieses zentrale Repository dient als Übersicht.
 Welcome to my full-stack project!  
 It consists of two separate repositories—one for the **Frontend** and one for the **Backend**.  
 This central repository serves as an overview.
+
+
 ---
 
 ## Repositories
