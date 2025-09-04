@@ -14,9 +14,9 @@ This central repository serves as an overview.
 
 ## Repositories
 
-| Teil       | Technologie       | Link                                                                 |
-|------------|-------------------|----------------------------------------------------------------------|
-| Frontend | React, TailwindCSS | [Frontend Repository](https://github.com/deinUsername/frontend-repo) |
-| Backend  | Node.js, Express   | [Backend Repository](https://github.com/deinUsername/backend-repo)   |
+| Teil       | Technologie                          | Link                                                            |
+|------------|--------------------------------------|-----------------------------------------------------------------|
+| Frontend   | HTML, CSS, JavaScript                | [Frontend Repository](https://github.com/M-Nafi/Join_Frontend)) |
+| Backend    | Python, Django DRF, Docker, Postgres | [Backend Repository]((https://github.com/M-Nafi/Join_Backend))  |
 
 ---
